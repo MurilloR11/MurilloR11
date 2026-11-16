@@ -9,11 +9,11 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente construyo proyectos con **React**, **TypeScript** y **Vite**
-- 🌱 Aprendiendo constantemente sobre **Arquitectura Front-End, Testing y Buenas Prácticas**
+- 🎓 Estudiante de **Ingeniería de Sistemas**
+- 🔭 Desarrollo aplicaciones web de punta a punta: **análisis de requerimientos, bases de datos, frontend, backend y despliegue**
+- 🌱 Aprendiendo constantemente sobre **arquitectura de software, testing y buenas prácticas**
 - 🐾 Mi proyecto más completo es **Huellitas**, una plataforma de adopción animal
-- 💬 Pregúntame sobre **React, TypeScript, Tailwind y Supabase**
-- ⚡ Resolviendo problemas complejos con soluciones simples
+- 💬 Pregúntame sobre **React, TypeScript, Python (Flask), Java y SQL**
 - 📫 Contáctame en **murillosantiago28@gmail.com**
 
 ---
@@ -24,7 +24,7 @@ Herramientas que utilizo para dar vida a mis ideas:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vite,tailwind,supabase,postgres,git,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css,react,vite,tailwind,flask,supabase,postgres,mysql,git,github,vscode,eclipse&perline=9" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Plataforma web para conectar fundaciones animalistas con adoptantes en el Tolima
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase&perline=5" />
+    <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,python,flask,supabase&perline=7" />
   </a>
 </p>
 
