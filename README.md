@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hola,%20soy%20Santiago%20👋&fontSize=70&animation=fadeIn&desc=Front-End%20Developer&descSize=25&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hola,%20soy%20Santiago%20👋&fontSize=70&animation=fadeIn&desc=Desarrollador%20de%20Software%20Jr.&descSize=25&descAlignY=75" />
 </p>
 
 
@@ -40,15 +40,6 @@ Plataforma web para conectar fundaciones animalistas con adoptantes en el Tolima
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase&perline=5" />
   </a>
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MurilloR11&show_icons=true&theme=visual_studio_code&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MurilloR11&layout=compact&theme=visual_studio_code&border_radius=10" />
 </p>
 
 ---
